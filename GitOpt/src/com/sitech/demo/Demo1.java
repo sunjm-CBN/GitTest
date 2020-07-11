@@ -9,5 +9,7 @@ public class Demo1 {
 		System.out.println("更新了 ");
 		
 		System.out.println("坤坤加入了");
+		
+		System.out.println("1111");
 	}
 }
